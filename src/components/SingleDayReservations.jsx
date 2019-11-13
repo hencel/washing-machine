@@ -4,6 +4,7 @@ import { Field } from 'redux-form';
 import _capitalize from 'lodash/capitalize';
 import TimePickerWrapper from './TimePickerWrapper';
 
+
 const SingleDayReservations = ({ fields, meta: { error } }) => {
   return [
     <Row key="header">

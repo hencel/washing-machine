@@ -1,3 +1,4 @@
 import Reservations from "./Reservations";
+import Menu from './Menu';
 
-export { Reservations };
+export { Menu, Reservations };
